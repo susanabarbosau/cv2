@@ -1,0 +1,18 @@
+h1{
+  color: SaddleBrown;font-family:monospace;
+}
+h2{
+  color:#DarkGray;font-family: aharoni;
+}
+p{
+  color:Black;font-family: inherit;
+}
+body {
+  background-color:Beige;
+}
+hr{
+  border-color: SaddleBrown;
+  border-width: 10px;
+  border-style: dotted none none;
+  width: 6%
+}
